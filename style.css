@@ -1,7 +1,10 @@
 body {
     background: #CCCCCC
 }
-
+#banner[
+    width: 100%;
+    heigt: ;
+]
 h1 {
     text-align: center
 }
